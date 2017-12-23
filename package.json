@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.html",
+  "dependencies": {
+    "gulp": "^4.0.0-alpha.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.21.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanch22/test2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanch22/test2/issues"
+  },
+  "homepage": "https://github.com/Sanch22/test2#readme"
+}
